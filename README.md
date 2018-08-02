@@ -1,7 +1,7 @@
 # sports
 
 > A Vue.js project
-
+> 项目地址 [http://w6260.com/#/index](http://w6260.com/#/index)
 ## Build Setup
 
 ``` bash
